@@ -19,4 +19,4 @@ class SerialGenerator:
     >>> serial.generate()
     100
     """
-
+    def __init__
